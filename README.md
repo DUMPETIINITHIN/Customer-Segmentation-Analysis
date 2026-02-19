@@ -22,6 +22,7 @@ The dataset contains customer demographic details and purchase history, includin
 - Number of web and store purchases
 - Total amount spent
 > Dataset file: `ifood_df.csv`
+
 🔄 Project Workflow
 1. Data Collection
 2. Data Exploration and Cleaning
@@ -48,4 +49,5 @@ The dataset contains customer demographic details and purchase history, includin
    ```bash
    git clone https://github.com/your-username/customer-segmentation-analysis.git
 📌 Conclusion
+
 This project demonstrates how data analytics and machine learning can be used to understand customer behavior and improve business decision-making through effective customer segmentation.
